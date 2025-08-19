@@ -9,3 +9,5 @@
 # vratenie sa k zmene git reset HEAD^
 # pre subory ktore nechcem verziovat, treba vytvorit subor .gitignore so zoznamom suborov/adresarov. Ak som uz pridal subor do stage a potom ho pridam do .ignore, musim pouzit git reset
 # git reset vymaze subory so stage area
+
+# skusam si aj git pull
