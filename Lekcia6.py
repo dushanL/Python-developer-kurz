@@ -11,3 +11,9 @@
 # git reset vymaze subory so stage area
 
 # skusam si aj git pull
+
+
+# git stash  odsunie zmeny a vrati ich na poslednu pull
+# git stash pop  vrati zmeny
+
+
