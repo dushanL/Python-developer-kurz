@@ -1,0 +1,32 @@
+18:14:04 From Jan Bubik To Everyone:
+	tkinter
+
+18:14:32 From Jan Bubik To Everyone:
+	https://www.djangoproject.com/
+
+18:14:48 From Jan Bubik To Everyone:
+	https://flask.palletsprojects.com/en/stable/
+
+18:15:11 From Jan Bubik To Everyone:
+	https://fastapi.tiangolo.com/
+
+18:19:26 From Jan Bubik To Everyone:
+	kivy
+
+18:28:44 From Jan Bubik To Everyone:
+	https://github.com/MutherGun/Game/tree/main
+
+18:28:49 From Jan Bubik To Everyone:
+	https://github.com/jirizelenka/mini-vuln-scanner/tree/main
+
+18:28:56 From Jan Bubik To Everyone:
+	https://github.com/tibormesty/python-rd/tree/main
+
+18:29:02 From Jan Bubik To Everyone:
+	https://github.com/dockie46/docker-client/tree/main
+
+18:30:22 From Jan Bubik To Everyone:
+	GitHub id: bubikhonza
+
+19:04:27 From Jan Bubik To Everyone:
+	https://click.palletsprojects.com/en/stable/
